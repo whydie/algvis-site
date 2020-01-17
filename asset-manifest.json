@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/algvis-site/static/css/main.ea15ec10.chunk.css",
+    "main.js": "/algvis-site/static/js/main.541553bc.chunk.js",
+    "main.js.map": "/algvis-site/static/js/main.541553bc.chunk.js.map",
+    "runtime-main.js": "/algvis-site/static/js/runtime-main.4cf7d802.js",
+    "runtime-main.js.map": "/algvis-site/static/js/runtime-main.4cf7d802.js.map",
+    "static/js/2.34962ac0.chunk.js": "/algvis-site/static/js/2.34962ac0.chunk.js",
+    "static/js/2.34962ac0.chunk.js.map": "/algvis-site/static/js/2.34962ac0.chunk.js.map",
+    "index.html": "/algvis-site/index.html",
+    "precache-manifest.5af94d13346d913de5f5c7e53ca08a91.js": "/algvis-site/precache-manifest.5af94d13346d913de5f5c7e53ca08a91.js",
+    "service-worker.js": "/algvis-site/service-worker.js",
+    "static/css/main.ea15ec10.chunk.css.map": "/algvis-site/static/css/main.ea15ec10.chunk.css.map",
+    "static/js/2.34962ac0.chunk.js.LICENSE": "/algvis-site/static/js/2.34962ac0.chunk.js.LICENSE",
+    "static/media/index.scss": "/algvis-site/static/media/PFDinMono-Regular.916365b5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf7d802.js",
+    "static/js/2.34962ac0.chunk.js",
+    "static/css/main.ea15ec10.chunk.css",
+    "static/js/main.541553bc.chunk.js"
+  ]
+}
