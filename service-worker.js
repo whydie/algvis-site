@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/algvis-site/precache-manifest.5af94d13346d913de5f5c7e53ca08a91.js"
+  "/algvis-site/precache-manifest.9bc306a56d1c0c990b84696594ff27e7.js"
 );
 
 self.addEventListener('message', (event) => {
